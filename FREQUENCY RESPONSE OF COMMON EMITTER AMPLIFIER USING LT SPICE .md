@@ -28,6 +28,7 @@
 <img width="1600" height="1449" alt="WhatsApp Image 2026-06-02 at 1 22 33 PM" src="https://github.com/user-attachments/assets/b0a2b2b4-6618-4016-8466-11ed4e0d4322" />
 
 ## Graph
+<img width="1912" height="477" alt="image" src="https://github.com/user-attachments/assets/7313d2c0-e207-461d-bfcb-88baaf35feb1" />
 
 
 ## **Result**
